@@ -1,0 +1,7 @@
+**/root/data/geth/
+**/root/data/keystore/
+**/.ethereum
+**/.ethash
+**/.bash_history
+**/node_modules/
+**/package-lock.json
